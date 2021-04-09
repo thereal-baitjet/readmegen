@@ -46,7 +46,7 @@ function promptUser(){
     },
     {
       type: "input",
-      name: "installatiomn",
+      name: "installation",
       message: "what command should be run to install dependancies"
     },
     {
@@ -71,7 +71,7 @@ function promptUser(){
     },
   ])
 }
-//list of questions 
+//list of questions
 
 
 function generateMD(response){
@@ -99,7 +99,7 @@ ${response.description}
 * [Questions](#questions)
 ### Installation:
 In order to install the necessary dependencies, open the console and run the following:
-\`\`\`${response.installations}\`\`\`
+\`\`\`${response.installation}\`\`\`
 ### Usage:
 ${response.usage}
 ### License:
