@@ -4,7 +4,6 @@ const fs = require('fs');
 const Choices = require("inquirer/lib/objects/choices");
 const { report } = require("process");
 const util = require("util")
-const generateMarkdown = require('./generateMarkdown.js');
 // usuing libraries//
 
 const writeFileAsync = util.promisify(fs.writeFile)
@@ -74,7 +73,7 @@ function promptUser(){
 //list of questions
 
 
-function generateMD(response){
+function generateMarkdown(response){
   let badge = "";
   if(response.license == "MIT"){
       badge = "![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)"
