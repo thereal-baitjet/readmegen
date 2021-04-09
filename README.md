@@ -1,5 +1,5 @@
-#   
-
+# readmegen  
+this generator make a readme from a prompt of questions
 ## Table of Contents:
 * [Installation](#installation)
 * [Usage](#usage)
@@ -9,19 +9,19 @@
 * [Questions](#questions)
 ### Installation:
 In order to install the necessary dependencies, open the console and run the following:
-```wwwwwwwwwwwwwwwwwwwwwwwwwwww```
+```npm i inquirer```
 ### Usage:
-
+this readme that is generated will overwrite readme or genarate a new one
 ### License:
 This project is licensed under:
 undefined
 ### Contributing:
-
+contact me via email
 ### Tests:
 In order to test open the console and run the following:
-``````
+```npm run test```
 ### Questions:
-If you have any questions contact me on [GitHub](https://github.com/) or contact 
- at 
-![picture](https://github.com/.png?size=80)
+If you have any questions contact me on [GitHub](https://github.com/thereal-baitjet) or contact 
+Juan Santos at baitjet@gmail.com
+![picture](https://github.com/thereal-baitjet.png?size=80)
   
