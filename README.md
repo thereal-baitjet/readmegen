@@ -27,4 +27,4 @@ If you have any questions contact me on [GitHub](https://github.com/thereal-bait
 Juan Santos at baitjet@gmail.com
 ![picture](https://github.com/thereal-baitjet.png?size=80)
   
-## Credits https://www.youtube.com/channel/UCcs3EOl5uqBpDQ5vs87X55w 
+## Credits: https://www.youtube.com/channel/UCcs3EOl5uqBpDQ5vs87X55w 
