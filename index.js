@@ -118,7 +118,7 @@ ${response.author} at ${response.email}
 }
 
 promptUser().then(function(response){
-  const markdown = generateMD(response);
+  const markdown = generateMarkdown(response);
   return writeFileAsync("README.md", markdown);
 }).then(function () {
       console.log("Generating README.md ...");

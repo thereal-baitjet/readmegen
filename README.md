@@ -1,5 +1,5 @@
 # readmegen  
-this generator make a readme from a prompt of questions
+this generator will make a readme file of off questions in a prompt
 ## Table of Contents:
 * [Installation](#installation)
 * [Usage](#usage)
@@ -11,12 +11,13 @@ this generator make a readme from a prompt of questions
 In order to install the necessary dependencies, open the console and run the following:
 ```npm i inquirer```
 ### Usage:
-this readme that is generated will overwrite readme or genarate a new one
+the generator will overwrite the file
+view video on how to use my readme gen https://youtu.be/O9OIryzAHBQ
 ### License:
 This project is licensed under:
 undefined
 ### Contributing:
-contact me via email
+you contact me via email
 ### Tests:
 In order to test open the console and run the following:
 ```npm run test```
