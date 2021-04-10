@@ -13,6 +13,7 @@
   ```npm install```
   ### Usage:
   the generator will overwrite the file
+  guide on how to use https://www.youtube.com/watch?v=O9OIryzAHBQ
   ### License:
   This project is licensed under:
   MIT
