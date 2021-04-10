@@ -8,6 +8,7 @@
   * [Tests](#tests)
   * [Questions](#questions)
   * [Credits](#credits)
+  * [Badges](#badges)
   ### Installation:
   In order to install the necessary dependencies, open the console and run the following:
   ```npm install```
@@ -28,7 +29,8 @@
   ![picture](https://github.com/thereal-baitjet.png?size=80)
    ### Credits 
    https://www.youtube.com/channel/UCcs3EOl5uqBpDQ5vs87X55w Josh Glugatch
-   ### badges
+
+   ### Badges
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=red&color=0D76A8)](https://www.linkedin.com/in/juan-santos-8380b0186/)
 
 
